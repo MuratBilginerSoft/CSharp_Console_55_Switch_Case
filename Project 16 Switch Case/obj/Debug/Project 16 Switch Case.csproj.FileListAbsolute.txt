@@ -1,0 +1,6 @@
+c:\users\mrt_b\source\repos\Project 16 Switch Case\Project 16 Switch Case\bin\Debug\Project 16 Switch Case.exe.config
+c:\users\mrt_b\source\repos\Project 16 Switch Case\Project 16 Switch Case\bin\Debug\Project 16 Switch Case.exe
+c:\users\mrt_b\source\repos\Project 16 Switch Case\Project 16 Switch Case\bin\Debug\Project 16 Switch Case.pdb
+c:\users\mrt_b\source\repos\Project 16 Switch Case\Project 16 Switch Case\obj\Debug\Project 16 Switch Case.csproj.CoreCompileInputs.cache
+c:\users\mrt_b\source\repos\Project 16 Switch Case\Project 16 Switch Case\obj\Debug\Project 16 Switch Case.exe
+c:\users\mrt_b\source\repos\Project 16 Switch Case\Project 16 Switch Case\obj\Debug\Project 16 Switch Case.pdb
